@@ -6,7 +6,7 @@
 */
 console.log("我是一个模块。我是02.module.js")
 /*我可以通过exports来向外部暴露变量和方法
-    只需要将需要暴露给外部的变量和方法设置为exports的属性即可
+只需要将需要暴露给外部的变量和方法设置为exports的属性即可
 */
  exports.x = "10";
  exports.y = 20;
